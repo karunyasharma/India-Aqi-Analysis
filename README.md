@@ -84,6 +84,7 @@ Kaggle – Air Quality Data in India (2015–2020)
 ## Author
 
 **Karunya Sharma**
+**Paras Bishnoi**
 
 BS in Applied AI & Data Science
 
