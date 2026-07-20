@@ -87,7 +87,7 @@ Kaggle – Air Quality Data in India (2015–2020)
 
 &
 
-**Paras Bishnoi**
+**Paras**
 
 BS in Applied AI & Data Science
 
